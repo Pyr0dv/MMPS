@@ -1,9 +1,9 @@
 body {
-    background-image: url("./MMP.png");
+    background-image: url("./fnaf\ background.gif");
     background-repeat: repeat;
     background-color: #000000;
         background-position: center;
-        background-size: cover;
+        background-size: 130%;
 
   }
 
@@ -19,8 +19,6 @@ body {
     flex-direction: column;
 
 }
-
-
 
 
 a  {
@@ -160,5 +158,6 @@ border-radius: 5px;
 }
 
 .pic2 {
-  height: 200px;
+  height: 318px;
+  border-radius: 50px;
 }
